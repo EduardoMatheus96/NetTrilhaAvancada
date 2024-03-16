@@ -1,0 +1,14 @@
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\bin\Debug\net7.0\Exercicio05.exe
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\bin\Debug\net7.0\Exercicio05.deps.json
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\bin\Debug\net7.0\Exercicio05.runtimeconfig.json
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\bin\Debug\net7.0\Exercicio05.dll
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\bin\Debug\net7.0\Exercicio05.pdb
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.GeneratedMSBuildEditorConfig.editorconfig
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.AssemblyInfoInputs.cache
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.AssemblyInfo.cs
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.csproj.CoreCompileInputs.cache
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.dll
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\refint\Exercicio05.dll
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.pdb
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\Exercicio05.genruntimeconfig.cache
+H:\.Net Avancado\NetTrilhaAvancada\Generics_Examples\Exercicio05\obj\Debug\net7.0\ref\Exercicio05.dll
